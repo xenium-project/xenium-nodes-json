@@ -1,0 +1,39 @@
+{
+  "nodes": [  
+    {
+        "name": "JizzBizz",
+        "url": "git.jitbit.de",
+        "port": "32778",
+        "ssl": false,
+        "cache": false
+    }
+    {
+        "name": "LeinAid",
+        "url": "85.214.241.85",
+        "port": "32778",
+        "ssl": false,
+        "cache": false
+    }
+    {
+        "name": "Gabcraftia",
+        "url": "94.214.85.66",
+        "port": "32778",
+        "ssl": false,
+        "cache": false
+    }
+    {
+        "name": "SpookyPool.nl-1",
+        "url": "142.93.239.206",
+        "port": "32778",
+        "ssl": false,
+        "cache": false
+    }
+    {
+        "name": "SpookyPool.nl-2",
+        "url": "94.211.127.5",
+        "port": "32778",
+        "ssl": false,
+        "cache": false
+    }
+  ]
+}
